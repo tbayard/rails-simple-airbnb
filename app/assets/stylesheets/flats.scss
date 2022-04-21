@@ -1,0 +1,19 @@
+// Place all the styles related to the flats controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+  padding: 20px;
+}
+
+.flat {
+  border: solid;
+  border-color: rgb(250, 250, 250);
+  background-color: rgb(240, 240, 240);
+  margin: 10px;
+  width: 25%;
+  padding: 2px;
+  box-shadow: 2px 2px 2px;
+}
